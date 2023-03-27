@@ -101,6 +101,17 @@ export const StackCards = styled("div", {
   },
 });
 
+export const AboutMeArea = styled("div", {
+  padding: "$section 0",
+  backgroundColor: "$grey0",
+  color: "white",
+
+  p: {
+    marginTop: "2rem",
+    fontSize: "18px",
+  },
+});
+
 export const ProjectsArea = styled("section", {
   padding: "$section 0",
   backgroundColor: "$grey0",
